@@ -28,7 +28,7 @@ user_name = input("Enter your name: ")
 print("Welcome,", user_name)
 
 # Example 7: F-strings
-name = "Sri Sarvesh"
+name = " Sri Sarvesh"
 course = "Computer Science and Engineering"
 clg = "Dr.NGP Institute of Technology"
 print(f"{name} studies {course} at {clg}.")
