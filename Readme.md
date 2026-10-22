@@ -1,30 +1,51 @@
-# Python Warm-up — Day 1
+# Day 2 — Python Practice & Git Workflow
 
-## Tasks completed
+## Overview
+Day 2 focuses on Python programming, file handling, error handling, object-oriented programming, data analysis, and Git version control.
 
-- **T01:** Python environment setup, virtual environment and Hello World.
-- **T02:** Git and GitHub setup, repository management and `.gitignore`.
-- **T03:** Variables, data types, type conversion, input, f-strings and string methods.
-- **T04:** Conditions, loops, functions, default arguments, `*args`, and `**kwargs`.
-- **T05:** Lists, tuples, dictionaries, sets, slicing, comprehensions and word frequency counting.
+## Tasks Completed
 
-## Technologies
+### T06 — CSV to JSON
+- Read student data from a CSV file.
+- Process the records and generate a JSON summary.
 
-- Python 3.11+
-- Visual Studio Code
-- Git and GitHub
+### T07 — Error Handling
+- Practiced exception handling.
+- Added project dependencies using `requirements.txt`.
 
-## Run the programs
+### T08 — Object-Oriented Programming
+- Implemented a `BankAccount` class.
+- Practiced input validation and tested account operations.
 
-Activate the virtual environment, then run:
+### T09 — Pandas CSV Analysis
+- Used Pandas to process and analyze student data.
+- Generated cleaned data and summary outputs.
 
-```powershell
-python hello.py
-python day1/basics.py
-python day1/exercises.py
-python day1/word_count.py
-```
+### T10 — Git Workflow Practice
+- Created and switched between Git branches.
+- Practiced merging branches and resolving merge conflicts.
+- Used `git stash` and `git restore`.
+- Practiced `git revert`.
+- Inspected commit history using `git log --oneline --graph --all`.
+- Captured screenshots of Git practice.
 
-## Learning outcome
+## Screenshots
 
-Practised Python fundamentals, problem-solving, basic data structures and Git version control.
+Git practice screenshots are available in the `screenshots/` directory.
+
+## Key Skills Learned
+- Python file handling and data processing
+- Exception handling and OOP
+- CSV and JSON operations
+- Pandas data analysis
+- Git branching, merging, conflict resolution, and version control
+
+## Tools Used
+- Python
+- Pandas
+- Git
+- GitHub
+- VS Code
+
+## Status
+Day 2 practice tasks completed.
