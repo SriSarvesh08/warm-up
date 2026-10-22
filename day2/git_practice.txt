@@ -1,0 +1,3 @@
+T10 Git Practice
+Learning branches, merges, and conflict resolution.
+Practicing stash, restore, revert, and git log.
